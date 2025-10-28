@@ -16,5 +16,6 @@ This app predicts house prices using machine learning based on property features
 3. Get instant price prediction
 
 ## Installation (For Local Use)
-pip install -r requirements.txt
-streamlit run app.py
+*pip install -r requirements.txt*
+
+*streamlit run app.py*
